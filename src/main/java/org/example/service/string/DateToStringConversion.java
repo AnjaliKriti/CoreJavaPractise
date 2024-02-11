@@ -1,5 +1,5 @@
-package org.example.service;
-//java.util.Date objects convert  into String in format ‘YYYYMMDD’ and then sort Collection of String in descending order
+package org.example.service.string;
+//list of java.util.Date objects convert  into String in format ‘YYYYMMDD’ and then sort Collection of String in descending order
 
 import java.time.LocalDate;
 import java.util.ArrayList;

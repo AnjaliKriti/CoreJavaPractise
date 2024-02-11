@@ -1,4 +1,4 @@
-package org.example.service;
+package org.example.service.string;
 
 //        Given a string with redundant consecutive characters.
 //        Convert string such that resultant string contains characters with its consecutive occurrence count.
@@ -6,7 +6,7 @@ package org.example.service;
 //        Output: a2b2c1da
 //        Input: ab
 //        Output: ab
-public class StringQuestion {
+public class ConsecutiveCharacter {
 
     public static void main (String[] args){
 
@@ -31,10 +31,5 @@ public class StringQuestion {
     System.out.println(updatedInput);
 
         String in = "ab";
-//        String[] substrings = str.split("");
-//
-//        for (String ch : substrings) {
-//            System.out.print(ch + " ");
-//        }
     }
 }

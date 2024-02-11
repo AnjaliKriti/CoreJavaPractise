@@ -1,4 +1,4 @@
-package org.example.service;
+package org.example.service.collections;
 
 import java.util.Arrays;
 

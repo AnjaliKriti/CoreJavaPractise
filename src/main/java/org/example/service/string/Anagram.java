@@ -1,4 +1,4 @@
-package org.example.service;
+package org.example.service.string;
 
 import java.util.Arrays;
 import java.util.HashMap;

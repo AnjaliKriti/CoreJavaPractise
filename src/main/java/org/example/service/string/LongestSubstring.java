@@ -1,4 +1,4 @@
-package org.example.service;
+package org.example.service.string;
 //Given a string, find the length of the longest substring without repeating characters.
 import java.util.HashMap;
 
